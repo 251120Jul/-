@@ -82,7 +82,7 @@ h2 {
   font-weight: normal;
   letter-spacing: .125rem;
   text-transform: lowercase;
-  color: yellow;
+  color: green;
 }
 li {
   display: inline-block;
@@ -90,7 +90,7 @@ li {
   list-style-type: none;
   padding: 1em;
   text-transform: lowercase;
-  color: yellow;
+  color: grenn;
   font-size: 18px;
 }
 li span {
@@ -174,5 +174,5 @@ border: 0;
 
     font-size: 15px;
 
-    color: yellow;
+    color: black;
     }
